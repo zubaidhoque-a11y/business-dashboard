@@ -1,0 +1,521 @@
+business_name,category,city,address,phone,source
+Sengupta Fit Zone,Gym,Kolkata,"638, Mohanty Road, Kolkata",+91 8362950628,Sample Data
+Krishnan Dental Clinic,Dentist,Mumbai,"68/61, Nair Marg, Mumbai",+91 6734036506,Sample Data
+Goel Residency,Hotel,Kolkata,"72, Borah Zila, Kolkata",+91 6334760738,Sample Data
+Nanda Dental Clinic,Dentist,Kolkata,"H.No. 185, Mahal Road, Kolkata",+91 9336696312,Sample Data
+Shan Electronics,Electronics Shop,Chennai,"878, Kalita Path, Chennai",+91 7849621470,Sample Data
+Buch Inn,Hotel,Hyderabad,"60/649, Thakkar Nagar, Hyderabad",+91 7331191390,Sample Data
+Sandal Academy,Coaching Centre,Delhi,"11/05, Gala Path, Delhi",+91 9203848421,Sample Data
+Devi Institute,Coaching Centre,Hyderabad,"19, Kota Nagar, Hyderabad",+91 8966647391,Sample Data
+Krishnamurthy Kitchen,Restaurant,Jaipur,"H.No. 65, Choudhary Zila, Jaipur",+91 9184611066,Sample Data
+Virk Chemist,Pharmacy,Hyderabad,"667, Mahal Marg, Hyderabad",+91 7856528252,Sample Data
+Shukla Fit Zone,Gym,Kolkata,"56/570, Krish Nagar, Kolkata",+91 7930075810,Sample Data
+Chand Pharmacy,Pharmacy,Delhi,"H.No. 21, Tandon Marg, Delhi",+91 6508157429,Sample Data
+Soman Chemist,Pharmacy,Jaipur,"030, Mani Street, Jaipur",+91 8274648506,Sample Data
+Krish Academy,Coaching Centre,Hyderabad,"H.No. 777, Biswas Circle, Hyderabad",+91 8853573823,Sample Data
+Mangat Fit Zone,Gym,Mumbai,"918, Chakrabarti Circle, Mumbai",+91 7275452091,Sample Data
+Jain Digital Hub,Electronics Shop,Pune,"16, Konda, Pune",+91 7835098955,Sample Data
+Oak Academy,Coaching Centre,Kolkata,"H.No. 854, Jaggi Zila, Kolkata",+91 6964411347,Sample Data
+Nagy Classes,Coaching Centre,Pune,"508, Mital Marg, Pune",+91 6326541099,Sample Data
+Chopra Institute,Coaching Centre,Bengaluru,"97, Rout Circle, Bengaluru",+91 9524806516,Sample Data
+Dutt Digital Hub,Electronics Shop,Mumbai,"28/979, Varty Path, Mumbai",+91 7364814270,Sample Data
+Mistry Chemist,Pharmacy,Pune,"670, Dar Nagar, Pune",+91 9488690725,Sample Data
+Dutta Dental Care,Dentist,Mumbai,"H.No. 162, Lalla Zila, Mumbai",+91 6911514914,Sample Data
+Krishnamurthy Bistro,Restaurant,Delhi,"H.No. 24, Dugar Nagar, Delhi",+91 7950488739,Sample Data
+Bala Inn,Hotel,Delhi,"392, Chana Circle, Delhi",+91 9739830322,Sample Data
+Mammen Mobile Store,Electronics Shop,Chennai,"H.No. 24, Bhandari Ganj, Chennai",+91 6830448745,Sample Data
+Bhatnagar Fit Zone,Gym,Chennai,"00, Mammen, Chennai",+91 8219778234,Sample Data
+Palan Pharmacy,Pharmacy,Pune,"H.No. 306, Bawa Ganj, Pune",+91 9103484630,Sample Data
+Venkataraman Chemist,Pharmacy,Mumbai,"H.No. 97, Peri, Mumbai",+91 6771410971,Sample Data
+Mallick Pharmacy,Pharmacy,Bengaluru,"57/529, Cheema Chowk, Bengaluru",+91 8918739736,Sample Data
+Karpe Unisex Salon,Salon,Kolkata,"86/47, Swamy Road, Kolkata",+91 8624636385,Sample Data
+Nigam Dhaba,Restaurant,Delhi,"25/247, Kale Path, Delhi",+91 8357109965,Sample Data
+Sarna Kitchen,Restaurant,Bengaluru,"H.No. 09, Vala Ganj, Bengaluru",+91 6885879795,Sample Data
+Joshi Mobile Store,Electronics Shop,Delhi,"02, Prabhakar Ganj, Delhi",+91 7237859287,Sample Data
+Babu Digital Hub,Electronics Shop,Mumbai,"H.No. 63, Keer Chowk, Mumbai",+91 9327416584,Sample Data
+Devi Dental Care,Dentist,Chennai,"62/973, De Road, Chennai",+91 8570406376,Sample Data
+Majumdar Electronics,Electronics Shop,Delhi,"28/726, Mani Ganj, Delhi",+91 7168747287,Sample Data
+Deshpande Institute,Coaching Centre,Kolkata,"927, Lad Chowk, Kolkata",+91 7731832764,Sample Data
+Date Dental Clinic,Dentist,Kolkata,"09, Sarkar Nagar, Kolkata",+91 6345824373,Sample Data
+Contractor Gym,Gym,Kolkata,"92, Mitra Nagar, Kolkata",+91 6652070932,Sample Data
+Chad Dental Care,Dentist,Chennai,"30, Bansal Zila, Chennai",+91 7678998028,Sample Data
+Rastogi Salon,Salon,Jaipur,"H.No. 909, Dhillon Road, Jaipur",+91 9967043303,Sample Data
+Mukhopadhyay Residency,Hotel,Bengaluru,"H.No. 023, Lal Street, Bengaluru",+91 6807577342,Sample Data
+Mistry Inn,Hotel,Hyderabad,"155, Radhakrishnan Street, Hyderabad",+91 9601463916,Sample Data
+Bains Kitchen,Restaurant,Delhi,"551, Gade Ganj, Delhi",+91 9881913386,Sample Data
+Sridhar Academy,Coaching Centre,Delhi,"H.No. 61, Bumb Road, Delhi",+91 7304235259,Sample Data
+Sastry Digital Hub,Electronics Shop,Mumbai,"73/014, Pandya Ganj, Mumbai",+91 7399085574,Sample Data
+Bora Electronics,Electronics Shop,Bengaluru,"H.No. 22, Bakshi Chowk, Bengaluru",+91 9967607278,Sample Data
+Mall Fit Zone,Gym,Kolkata,"99/86, Mahajan Marg, Kolkata",+91 6200140141,Sample Data
+Sachar Dental Care,Dentist,Mumbai,"20, Bhagat Chowk, Mumbai",+91 9616854671,Sample Data
+Dash Dental Clinic,Dentist,Pune,"45, Mallick Road, Pune",+91 7506919288,Sample Data
+Chowdhury Dhaba,Restaurant,Pune,"203, Dubey Circle, Pune",+91 9406284028,Sample Data
+Pandit Residency,Hotel,Jaipur,"404, Som Circle, Jaipur",+91 7418587604,Sample Data
+Tara Dental Clinic,Dentist,Kolkata,"06/00, Swaminathan Marg, Kolkata",+91 8161380746,Sample Data
+Dave Bistro,Restaurant,Jaipur,"20/043, De Circle, Jaipur",+91 6645276696,Sample Data
+Kant Fitness,Gym,Mumbai,"H.No. 078, Karan Road, Mumbai",+91 6825003955,Sample Data
+Datta Dental Clinic,Dentist,Pune,"H.No. 114, Date Street, Pune",+91 7721609600,Sample Data
+Gupta Cafe,Restaurant,Delhi,"579, Solanki, Delhi",+91 8379995032,Sample Data
+Zacharia Dental Clinic,Dentist,Hyderabad,"84/587, Kapadia Chowk, Hyderabad",+91 8524971817,Sample Data
+Deol Beauty Studio,Salon,Chennai,"H.No. 383, Munshi Circle, Chennai",+91 8907308348,Sample Data
+Thaman Gym,Gym,Kolkata,"14, Prakash Circle, Kolkata",+91 6178663096,Sample Data
+Shankar Dental Clinic,Dentist,Chennai,"H.No. 98, Ghosh Street, Chennai",+91 8173864104,Sample Data
+Rau Dental Care,Dentist,Hyderabad,"102, Krishnamurthy Path, Hyderabad",+91 7570497096,Sample Data
+Parekh Chemist,Pharmacy,Kolkata,"80/65, Doshi Road, Kolkata",+91 8812308209,Sample Data
+Varma Gym,Gym,Mumbai,"16/46, Hora Street, Mumbai",+91 6214929002,Sample Data
+Sidhu Beauty Studio,Salon,Chennai,"H.No. 03, Vasa Street, Chennai",+91 7870530217,Sample Data
+Rai Institute,Coaching Centre,Bengaluru,"63/927, Raju Street, Bengaluru",+91 8642678844,Sample Data
+Jaggi Electronics,Electronics Shop,Chennai,"47/32, Din Road, Chennai",+91 6781057736,Sample Data
+Baral Residency,Hotel,Chennai,"747, Hegde Chowk, Chennai",+91 6458153605,Sample Data
+Mohan Salon,Salon,Chennai,"843, Parsa Marg, Chennai",+91 9692362342,Sample Data
+Bath Residency,Hotel,Kolkata,"H.No. 04, Bhakta, Kolkata",+91 6841976666,Sample Data
+Rao Beauty Studio,Salon,Kolkata,"867, Shukla Nagar, Kolkata",+91 7561479973,Sample Data
+Karan Beauty Studio,Salon,Kolkata,"167, Singhal Path, Kolkata",+91 8954829815,Sample Data
+Basak Bistro,Restaurant,Hyderabad,"85/02, Lalla, Hyderabad",+91 7816114302,Sample Data
+Mutti Fit Zone,Gym,Hyderabad,"98/44, Sridhar Street, Hyderabad",+91 9766430218,Sample Data
+Wagle Salon,Salon,Bengaluru,"54/085, Dasgupta Ganj, Bengaluru",+91 7542697755,Sample Data
+Nanda Dhaba,Restaurant,Mumbai,"39/946, Kaur Marg, Mumbai",+91 9961393416,Sample Data
+Lalla Dental Clinic,Dentist,Chennai,"41, Balakrishnan Ganj, Chennai",+91 6510751046,Sample Data
+Goswami Bistro,Restaurant,Jaipur,"61/66, Gill Circle, Jaipur",+91 7976803188,Sample Data
+Kunda Digital Hub,Electronics Shop,Hyderabad,"23/150, Bumb Road, Hyderabad",+91 7339362341,Sample Data
+Kunda Cafe,Restaurant,Bengaluru,"94, Sarna Street, Bengaluru",+91 8399147754,Sample Data
+Maharaj Gym,Gym,Chennai,"699, Iyer Chowk, Chennai",+91 9829627019,Sample Data
+Kata Academy,Coaching Centre,Kolkata,"02/88, Naik Chowk, Kolkata",+91 8291735734,Sample Data
+Chaudhry Pharmacy,Pharmacy,Kolkata,"38/80, Ben Ganj, Kolkata",+91 9471178705,Sample Data
+Vasa Institute,Coaching Centre,Pune,"H.No. 89, Dutt Nagar, Pune",+91 6513600440,Sample Data
+Kothari Dental Clinic,Dentist,Chennai,"H.No. 445, Tiwari, Chennai",+91 9101815992,Sample Data
+Bumb Dental Care,Dentist,Hyderabad,"H.No. 90, Batra, Hyderabad",+91 6813219781,Sample Data
+Bajaj Institute,Coaching Centre,Hyderabad,"26/451, Bal Nagar, Hyderabad",+91 6872830248,Sample Data
+Kaur Chemist,Pharmacy,Chennai,"42/78, Karpe Chowk, Chennai",+91 9450236225,Sample Data
+Shenoy Hotel,Hotel,Chennai,"46/45, Brahmbhatt Circle, Chennai",+91 7305986733,Sample Data
+Hayre Hotel,Hotel,Pune,"148, Khosla Path, Pune",+91 7760904107,Sample Data
+Tripathi Chemist,Pharmacy,Pune,"H.No. 786, Sehgal Path, Pune",+91 6426283245,Sample Data
+Maharaj Medicos,Pharmacy,Bengaluru,"32/51, Apte Road, Bengaluru",+91 8599277266,Sample Data
+Merchant Mobile Store,Electronics Shop,Jaipur,"74/748, Nath Marg, Jaipur",+91 7648868899,Sample Data
+Goel Mobile Store,Electronics Shop,Mumbai,"92, Murthy Road, Mumbai",+91 6404713332,Sample Data
+Tak Academy,Coaching Centre,Delhi,"44/03, More Ganj, Delhi",+91 8341206079,Sample Data
+Merchant Dental Clinic,Dentist,Mumbai,"949, Kurian Road, Mumbai",+91 6362897676,Sample Data
+Narasimhan Digital Hub,Electronics Shop,Delhi,"97, Rajagopalan Zila, Delhi",+91 9776205431,Sample Data
+Desai Dental Care,Dentist,Pune,"H.No. 72, Vig, Pune",+91 9361976301,Sample Data
+Bali Salon,Salon,Kolkata,"84, Bansal Street, Kolkata",+91 9334978881,Sample Data
+Seth Salon,Salon,Jaipur,"H.No. 881, Srinivasan Ganj, Jaipur",+91 7230307805,Sample Data
+Mani Digital Hub,Electronics Shop,Mumbai,"H.No. 42, Walla Circle, Mumbai",+91 8910943524,Sample Data
+Kota Mobile Store,Electronics Shop,Pune,"98/866, Sem Marg, Pune",+91 9270894498,Sample Data
+Palla Digital Hub,Electronics Shop,Jaipur,"638, Korpal Nagar, Jaipur",+91 7784683755,Sample Data
+Kadakia Chemist,Pharmacy,Jaipur,"60/341, Parsa Marg, Jaipur",+91 7394846763,Sample Data
+Solanki Mobile Store,Electronics Shop,Delhi,"02/82, Sarna Marg, Delhi",+91 8351785565,Sample Data
+Amble Medicos,Pharmacy,Hyderabad,"85/93, Natt Marg, Hyderabad",+91 6248578017,Sample Data
+Ratta Beauty Studio,Salon,Bengaluru,"H.No. 051, Walia Marg, Bengaluru",+91 7858511779,Sample Data
+Batta Dental Care,Dentist,Delhi,"90/519, Chander Ganj, Delhi",+91 9455281184,Sample Data
+Setty Electronics,Electronics Shop,Pune,"H.No. 33, Badal Chowk, Pune",+91 7994310083,Sample Data
+Kohli Hotel,Hotel,Pune,"33, Kala Path, Pune",+91 6922050912,Sample Data
+Sur Residency,Hotel,Jaipur,"37/716, Murthy Road, Jaipur",+91 8420632895,Sample Data
+Agate Hotel,Hotel,Pune,"224, Morar Nagar, Pune",+91 7624232414,Sample Data
+Dey Dental Care,Dentist,Chennai,"76, Bahri Chowk, Chennai",+91 9131165166,Sample Data
+Keer Hotel,Hotel,Hyderabad,"495, Mangal Nagar, Hyderabad",+91 9877583839,Sample Data
+Bhavsar Salon,Salon,Jaipur,"H.No. 365, Prabhu Circle, Jaipur",+91 6523076025,Sample Data
+Sarkar Cafe,Restaurant,Delhi,"66/361, Rama Nagar, Delhi",+91 7595744935,Sample Data
+Dara Beauty Studio,Salon,Kolkata,"247, Dutta Chowk, Kolkata",+91 9451492250,Sample Data
+Chakrabarti Dental Care,Dentist,Jaipur,"95/68, Oak Ganj, Jaipur",+91 8917364173,Sample Data
+Tandon Inn,Hotel,Chennai,"560, Chopra Circle, Chennai",+91 8996478772,Sample Data
+Mahal Fitness,Gym,Jaipur,"H.No. 098, Banerjee Marg, Jaipur",+91 6475767056,Sample Data
+Tak Dental Clinic,Dentist,Delhi,"H.No. 903, Boase Street, Delhi",+91 6365518424,Sample Data
+Sule Dental Clinic,Dentist,Kolkata,"14, Memon Path, Kolkata",+91 7235528741,Sample Data
+Wable Mobile Store,Electronics Shop,Delhi,"899, Kohli Marg, Delhi",+91 7599326438,Sample Data
+Sahni Pharmacy,Pharmacy,Hyderabad,"H.No. 24, Singh Ganj, Hyderabad",+91 6935147672,Sample Data
+Purohit Salon,Salon,Chennai,"H.No. 018, Biswas, Chennai",+91 6434961542,Sample Data
+Garde Hotel,Hotel,Pune,"16/44, Rama Circle, Pune",+91 7181600593,Sample Data
+Gala Dental Care,Dentist,Delhi,"04/06, Vora Circle, Delhi",+91 6954942461,Sample Data
+Atwal Cafe,Restaurant,Hyderabad,"277, Hans Road, Hyderabad",+91 8174041730,Sample Data
+Gour Classes,Coaching Centre,Kolkata,"89/28, Bhakta Nagar, Kolkata",+91 9213321496,Sample Data
+Shankar Hotel,Hotel,Hyderabad,"82/986, Ghose Zila, Hyderabad",+91 9859466878,Sample Data
+Parmar Salon,Salon,Pune,"H.No. 669, Deep Marg, Pune",+91 8761330848,Sample Data
+Bora Digital Hub,Electronics Shop,Jaipur,"40/708, Bains Chowk, Jaipur",+91 8446071904,Sample Data
+Behl Dental Care,Dentist,Delhi,"H.No. 17, Sankaran Marg, Delhi",+91 9361846370,Sample Data
+Banerjee Digital Hub,Electronics Shop,Pune,"18, Sarma Road, Pune",+91 6630757561,Sample Data
+Tandon Classes,Coaching Centre,Mumbai,"H.No. 03, Roy Marg, Mumbai",+91 7480990401,Sample Data
+Khurana Medicos,Pharmacy,Hyderabad,"40/19, Sachar Nagar, Hyderabad",+91 8696776072,Sample Data
+Talwar Kitchen,Restaurant,Bengaluru,"74/677, Desai Road, Bengaluru",+91 7873174285,Sample Data
+Srinivas Hotel,Hotel,Jaipur,"011, Raj Path, Jaipur",+91 7841536135,Sample Data
+Vyas Digital Hub,Electronics Shop,Jaipur,"H.No. 84, Balasubramanian, Jaipur",+91 6199915275,Sample Data
+Sridhar Medicos,Pharmacy,Bengaluru,"71/947, Sampath, Bengaluru",+91 7428786222,Sample Data
+Dutt Institute,Coaching Centre,Jaipur,"54/354, Sidhu Chowk, Jaipur",+91 8556881239,Sample Data
+Tailor Institute,Coaching Centre,Hyderabad,"75/558, Nayar Path, Hyderabad",+91 9390894296,Sample Data
+Sabharwal Pharmacy,Pharmacy,Chennai,"66, Bhargava Path, Chennai",+91 6874473159,Sample Data
+Borra Dental Clinic,Dentist,Hyderabad,"17, Zacharia Circle, Hyderabad",+91 7305665554,Sample Data
+Chokshi Dental Care,Dentist,Jaipur,"H.No. 037, Mangal Marg, Jaipur",+91 8207939087,Sample Data
+Kuruvilla Dental Clinic,Dentist,Chennai,"59/44, Rege Nagar, Chennai",+91 8292673892,Sample Data
+Batta Chemist,Pharmacy,Kolkata,"74/435, Banik Road, Kolkata",+91 7394539550,Sample Data
+Keer Dhaba,Restaurant,Kolkata,"227, Taneja Ganj, Kolkata",+91 7784907325,Sample Data
+Butala Electronics,Electronics Shop,Delhi,"H.No. 083, Ghose Ganj, Delhi",+91 8604011128,Sample Data
+Vohra Digital Hub,Electronics Shop,Jaipur,"90/902, Dhar Ganj, Jaipur",+91 7155165334,Sample Data
+Gera Pharmacy,Pharmacy,Jaipur,"36/28, Sachar Path, Jaipur",+91 6530256336,Sample Data
+Devi Mobile Store,Electronics Shop,Delhi,"701, Mann Chowk, Delhi",+91 6262915636,Sample Data
+Mannan Salon,Salon,Chennai,"H.No. 91, Mangal Path, Chennai",+91 7227186396,Sample Data
+Palla Hotel,Hotel,Bengaluru,"H.No. 34, Manne Chowk, Bengaluru",+91 9583736219,Sample Data
+Doctor Mobile Store,Electronics Shop,Chennai,"942, Dyal, Chennai",+91 9427899537,Sample Data
+Bandi Bistro,Restaurant,Delhi,"32/547, Grewal Ganj, Delhi",+91 7384161612,Sample Data
+Dugar Fitness,Gym,Mumbai,"H.No. 32, Lad Marg, Mumbai",+91 7692697161,Sample Data
+Andra Fitness,Gym,Mumbai,"00, Mahajan Marg, Mumbai",+91 9583724666,Sample Data
+Jaggi Electronics,Electronics Shop,Chennai,"H.No. 82, Subramaniam, Chennai",+91 7409350265,Sample Data
+Chaudry Pharmacy,Pharmacy,Jaipur,"772, Sankaran, Jaipur",+91 7384063364,Sample Data
+Minhas Dental Clinic,Dentist,Pune,"438, Sachar Zila, Pune",+91 7795392488,Sample Data
+Pai Salon,Salon,Chennai,"986, Sekhon Chowk, Chennai",+91 6164035859,Sample Data
+Vaidya Unisex Salon,Salon,Chennai,"18/785, Bhavsar Road, Chennai",+91 8571537429,Sample Data
+Hayer Fit Zone,Gym,Jaipur,"12/57, Batra Ganj, Jaipur",+91 8851333320,Sample Data
+Bora Hotel,Hotel,Chennai,"304, Rege Ganj, Chennai",+91 9570040006,Sample Data
+Mall Gym,Gym,Kolkata,"H.No. 169, Palla Marg, Kolkata",+91 8748232591,Sample Data
+Sawhney Pharmacy,Pharmacy,Kolkata,"97, Cheema Zila, Kolkata",+91 7824022357,Sample Data
+Puri Kitchen,Restaurant,Chennai,"90/944, Sinha Road, Chennai",+91 7605196410,Sample Data
+Bose Electronics,Electronics Shop,Chennai,"541, Apte Zila, Chennai",+91 9781594897,Sample Data
+Aggarwal Digital Hub,Electronics Shop,Delhi,"H.No. 96, Mander Chowk, Delhi",+91 8538460431,Sample Data
+Warrior Institute,Coaching Centre,Hyderabad,"H.No. 48, Pai Path, Hyderabad",+91 6272684373,Sample Data
+Mahajan Institute,Coaching Centre,Pune,"74, Gopal Chowk, Pune",+91 9409471503,Sample Data
+Mammen Inn,Hotel,Kolkata,"H.No. 14, Oak Ganj, Kolkata",+91 6437710224,Sample Data
+Devi Pharmacy,Pharmacy,Hyderabad,"30/84, Biswas Ganj, Hyderabad",+91 9652543518,Sample Data
+Mander Cafe,Restaurant,Jaipur,"38/200, Balasubramanian Chowk, Jaipur",+91 6301415220,Sample Data
+Dasgupta Institute,Coaching Centre,Jaipur,"23/897, Taneja Chowk, Jaipur",+91 9916033628,Sample Data
+Lad Dhaba,Restaurant,Bengaluru,"H.No. 62, Samra, Bengaluru",+91 7409268943,Sample Data
+Krishnan Electronics,Electronics Shop,Jaipur,"H.No. 052, Sekhon Path, Jaipur",+91 6776481264,Sample Data
+Bhalla Dental Care,Dentist,Mumbai,"79/06, Bhatti Path, Mumbai",+91 6692975437,Sample Data
+Madan Residency,Hotel,Delhi,"11, Bedi Zila, Delhi",+91 6595475899,Sample Data
+Kade Gym,Gym,Mumbai,"60/05, Borra Road, Mumbai",+91 8646397165,Sample Data
+Chada Medicos,Pharmacy,Pune,"46/476, Sibal Zila, Pune",+91 9361704064,Sample Data
+Bawa Digital Hub,Electronics Shop,Mumbai,"74, Nayar Circle, Mumbai",+91 7743576792,Sample Data
+Johal Beauty Studio,Salon,Delhi,"39/92, Mane Chowk, Delhi",+91 9464938258,Sample Data
+Pai Medicos,Pharmacy,Kolkata,"22, Shankar, Kolkata",+91 8999232921,Sample Data
+Barad Digital Hub,Electronics Shop,Mumbai,"64/82, Dhillon Zila, Mumbai",+91 9470574014,Sample Data
+Desai Classes,Coaching Centre,Pune,"92, Patla Nagar, Pune",+91 8302563940,Sample Data
+Rastogi Dental Clinic,Dentist,Pune,"H.No. 524, Bhavsar Nagar, Pune",+91 9146865930,Sample Data
+Bhasin Institute,Coaching Centre,Jaipur,"H.No. 393, Talwar, Jaipur",+91 9514548900,Sample Data
+Deo Salon,Salon,Jaipur,"35, Dhingra Ganj, Jaipur",+91 7639331014,Sample Data
+Chahal Classes,Coaching Centre,Delhi,"86/727, More Nagar, Delhi",+91 6664735673,Sample Data
+More Mobile Store,Electronics Shop,Kolkata,"906, Wason Street, Kolkata",+91 7540211187,Sample Data
+Agrawal Beauty Studio,Salon,Delhi,"H.No. 160, Pau Street, Delhi",+91 8463527356,Sample Data
+Wason Inn,Hotel,Delhi,"078, Bhalla Path, Delhi",+91 9440012324,Sample Data
+Badal Mobile Store,Electronics Shop,Kolkata,"27, Prasad Path, Kolkata",+91 6352082631,Sample Data
+Bora Chemist,Pharmacy,Bengaluru,"85/07, Bava Nagar, Bengaluru",+91 6565973314,Sample Data
+Dutt Gym,Gym,Delhi,"H.No. 411, Dani Street, Delhi",+91 7845178074,Sample Data
+Ram Pharmacy,Pharmacy,Kolkata,"H.No. 56, Magar Ganj, Kolkata",+91 8954852540,Sample Data
+Mittal Dhaba,Restaurant,Chennai,"895, Contractor Nagar, Chennai",+91 8562446417,Sample Data
+Bakshi Unisex Salon,Salon,Bengaluru,"H.No. 04, Chakraborty Chowk, Bengaluru",+91 9707660630,Sample Data
+Kakar Salon,Salon,Mumbai,"49/12, Devan Nagar, Mumbai",+91 6754436820,Sample Data
+Choudhry Inn,Hotel,Bengaluru,"262, Sur Marg, Bengaluru",+91 7349310440,Sample Data
+Andra Digital Hub,Electronics Shop,Chennai,"23/35, Patla Circle, Chennai",+91 8816014770,Sample Data
+Ratti Dhaba,Restaurant,Jaipur,"60, Venkataraman Circle, Jaipur",+91 7179308612,Sample Data
+Basak Mobile Store,Electronics Shop,Hyderabad,"84, Ganguly Zila, Hyderabad",+91 8786055206,Sample Data
+Kulkarni Inn,Hotel,Chennai,"60/32, Mane Zila, Chennai",+91 8313907621,Sample Data
+Doshi Residency,Hotel,Jaipur,"30/119, Majumdar Nagar, Jaipur",+91 7509486794,Sample Data
+Palan Institute,Coaching Centre,Chennai,"31/250, Bir Path, Chennai",+91 8123557463,Sample Data
+Mutti Residency,Hotel,Chennai,"H.No. 846, Sachdev, Chennai",+91 6751124015,Sample Data
+Vig Electronics,Electronics Shop,Chennai,"85/531, Dasgupta Chowk, Chennai",+91 8335154329,Sample Data
+Keer Dental Clinic,Dentist,Chennai,"955, Nazareth Road, Chennai",+91 6773728014,Sample Data
+Apte Cafe,Restaurant,Chennai,"74, Madan Road, Chennai",+91 6722312633,Sample Data
+Kota Academy,Coaching Centre,Mumbai,"42, Khalsa Street, Mumbai",+91 8450811990,Sample Data
+Shan Residency,Hotel,Mumbai,"595, Sharma Chowk, Mumbai",+91 7944511703,Sample Data
+Reddy Academy,Coaching Centre,Chennai,"241, Chahal, Chennai",+91 8985503942,Sample Data
+Shere Mobile Store,Electronics Shop,Chennai,"34, Suri Chowk, Chennai",+91 8963538119,Sample Data
+Nayar Fitness,Gym,Jaipur,"95/489, Bhattacharyya Street, Jaipur",+91 7909763993,Sample Data
+Tiwari Dental Care,Dentist,Pune,"011, Madan Chowk, Pune",+91 6948988297,Sample Data
+Raghavan Inn,Hotel,Kolkata,"36/94, Verma Street, Kolkata",+91 6588322781,Sample Data
+Bahl Institute,Coaching Centre,Chennai,"00/28, Shah Marg, Chennai",+91 9983063850,Sample Data
+Pant Institute,Coaching Centre,Delhi,"H.No. 096, Virk Zila, Delhi",+91 7606244434,Sample Data
+Dugal Bistro,Restaurant,Hyderabad,"05/749, Banik Circle, Hyderabad",+91 6782259766,Sample Data
+Jani Mobile Store,Electronics Shop,Chennai,"H.No. 81, Lal Path, Chennai",+91 9225279834,Sample Data
+Kant Salon,Salon,Kolkata,"H.No. 825, Ravi Chowk, Kolkata",+91 8628951656,Sample Data
+Viswanathan Fitness,Gym,Delhi,"52, Bail Nagar, Delhi",+91 7517305280,Sample Data
+Misra Mobile Store,Electronics Shop,Hyderabad,"19/104, Chhabra Ganj, Hyderabad",+91 9730651895,Sample Data
+Keer Unisex Salon,Salon,Pune,"96/49, Badami Chowk, Pune",+91 6995171130,Sample Data
+Madan Digital Hub,Electronics Shop,Pune,"H.No. 099, Padmanabhan Street, Pune",+91 6841183219,Sample Data
+Char Classes,Coaching Centre,Bengaluru,"82, Reddy Chowk, Bengaluru",+91 9353524015,Sample Data
+Sridhar Institute,Coaching Centre,Delhi,"H.No. 378, Baral Chowk, Delhi",+91 8684615760,Sample Data
+Reddy Classes,Coaching Centre,Kolkata,"H.No. 225, Chaudhuri Road, Kolkata",+91 8303805386,Sample Data
+Randhawa Fitness,Gym,Jaipur,"30/947, Cheema Street, Jaipur",+91 7789024924,Sample Data
+Sarna Dhaba,Restaurant,Kolkata,"H.No. 862, Doshi Zila, Kolkata",+91 7235209737,Sample Data
+Saraf Dental Clinic,Dentist,Delhi,"31/26, Yohannan Ganj, Delhi",+91 7973008988,Sample Data
+Nagarajan Dental Clinic,Dentist,Hyderabad,"H.No. 206, Kapoor Circle, Hyderabad",+91 6397721596,Sample Data
+Narayanan Unisex Salon,Salon,Mumbai,"H.No. 688, Ganguly Nagar, Mumbai",+91 8957397689,Sample Data
+Ravel Unisex Salon,Salon,Delhi,"26, Dugal Chowk, Delhi",+91 6241522640,Sample Data
+Sanghvi Bistro,Restaurant,Hyderabad,"84/10, Mammen Circle, Hyderabad",+91 8116944811,Sample Data
+Chacko Salon,Salon,Chennai,"67, Rai Circle, Chennai",+91 7896413702,Sample Data
+Dara Hotel,Hotel,Delhi,"532, Raj, Delhi",+91 6611365210,Sample Data
+Baria Mobile Store,Electronics Shop,Hyderabad,"69/11, Pandey, Hyderabad",+91 6585337126,Sample Data
+Raj Dental Care,Dentist,Kolkata,"H.No. 07, Nazareth Chowk, Kolkata",+91 9790781796,Sample Data
+Dube Cafe,Restaurant,Kolkata,"26/83, Bedi, Kolkata",+91 9557707813,Sample Data
+Kale Fit Zone,Gym,Jaipur,"63/694, Dave Circle, Jaipur",+91 9178910051,Sample Data
+Badal Fit Zone,Gym,Hyderabad,"06/200, Master Street, Hyderabad",+91 7170525764,Sample Data
+Chandran Unisex Salon,Salon,Chennai,"58, Krishnamurthy, Chennai",+91 8508992977,Sample Data
+Gala Chemist,Pharmacy,Jaipur,"702, Barman Road, Jaipur",+91 9206492059,Sample Data
+Yohannan Gym,Gym,Bengaluru,"267, Nadkarni Zila, Bengaluru",+91 9345343109,Sample Data
+Dutt Inn,Hotel,Hyderabad,"90/92, Sem Circle, Hyderabad",+91 9546665485,Sample Data
+Sankaran Gym,Gym,Hyderabad,"57/19, Sura Marg, Hyderabad",+91 8814154134,Sample Data
+Chatterjee Pharmacy,Pharmacy,Hyderabad,"09, Shankar Path, Hyderabad",+91 9172083844,Sample Data
+Chhabra Fitness,Gym,Delhi,"H.No. 249, Suri Chowk, Delhi",+91 9203685265,Sample Data
+Pall Institute,Coaching Centre,Mumbai,"H.No. 57, Shenoy Road, Mumbai",+91 6729712082,Sample Data
+Halder Classes,Coaching Centre,Delhi,"79/11, Dutta Marg, Delhi",+91 8814403943,Sample Data
+Taneja Inn,Hotel,Kolkata,"H.No. 239, Ratta Zila, Kolkata",+91 8477577220,Sample Data
+Parekh Fitness,Gym,Bengaluru,"59/192, Lall Ganj, Bengaluru",+91 9340781088,Sample Data
+Ratti Fit Zone,Gym,Hyderabad,"23, Sharaf Circle, Hyderabad",+91 8223357166,Sample Data
+Vasa Medicos,Pharmacy,Bengaluru,"75/344, Amble Chowk, Bengaluru",+91 6753903309,Sample Data
+Ramachandran Pharmacy,Pharmacy,Kolkata,"61, Puri Path, Kolkata",+91 8854517058,Sample Data
+Kalita Medicos,Pharmacy,Hyderabad,"79/933, Chana Nagar, Hyderabad",+91 6294782734,Sample Data
+Rout Salon,Salon,Pune,"H.No. 500, Sani Chowk, Pune",+91 7895609471,Sample Data
+Munshi Bistro,Restaurant,Delhi,"59/41, Korpal Ganj, Delhi",+91 9550791704,Sample Data
+Ganguly Electronics,Electronics Shop,Hyderabad,"50/06, Khalsa Chowk, Hyderabad",+91 8434618074,Sample Data
+Shanker Academy,Coaching Centre,Delhi,"339, Agarwal Chowk, Delhi",+91 7269017588,Sample Data
+Palla Dhaba,Restaurant,Delhi,"H.No. 38, Kara Circle, Delhi",+91 9810751262,Sample Data
+Narayanan Hotel,Hotel,Jaipur,"36, Dutt Path, Jaipur",+91 9544726404,Sample Data
+Setty Chemist,Pharmacy,Bengaluru,"H.No. 28, Rama, Bengaluru",+91 6470626529,Sample Data
+Kata Inn,Hotel,Delhi,"87/082, Tandon Marg, Delhi",+91 9665791188,Sample Data
+Solanki Pharmacy,Pharmacy,Kolkata,"11/828, Contractor Path, Kolkata",+91 9743520276,Sample Data
+Karan Bistro,Restaurant,Kolkata,"H.No. 294, Kanda Nagar, Kolkata",+91 8326810757,Sample Data
+Balan Beauty Studio,Salon,Chennai,"44/39, Andra Ganj, Chennai",+91 8228832213,Sample Data
+Mane Cafe,Restaurant,Jaipur,"33, Prakash, Jaipur",+91 7238712095,Sample Data
+Korpal Hotel,Hotel,Bengaluru,"H.No. 60, Kota Path, Bengaluru",+91 8177390472,Sample Data
+Walia Inn,Hotel,Kolkata,"85/075, Apte Ganj, Kolkata",+91 6593657365,Sample Data
+Wali Fit Zone,Gym,Hyderabad,"86, Agrawal Chowk, Hyderabad",+91 9715683222,Sample Data
+Upadhyay Inn,Hotel,Pune,"H.No. 81, Pal, Pune",+91 6534900128,Sample Data
+Bobal Bistro,Restaurant,Hyderabad,"H.No. 06, Saha Nagar, Hyderabad",+91 9993381017,Sample Data
+Jain Classes,Coaching Centre,Delhi,"57, Amble Ganj, Delhi",+91 6361259074,Sample Data
+Patla Hotel,Hotel,Pune,"24/163, Kala Marg, Pune",+91 6524951250,Sample Data
+Palla Pharmacy,Pharmacy,Hyderabad,"H.No. 907, Mutti Zila, Hyderabad",+91 8936571442,Sample Data
+Talwar Unisex Salon,Salon,Delhi,"76, Anne Marg, Delhi",+91 6669732591,Sample Data
+Merchant Dental Care,Dentist,Hyderabad,"H.No. 93, Taneja Path, Hyderabad",+91 7353691745,Sample Data
+Sant Gym,Gym,Mumbai,"H.No. 79, Chaudhuri Ganj, Mumbai",+91 7286293158,Sample Data
+Dubey Salon,Salon,Delhi,"42, Sankaran Nagar, Delhi",+91 9598165815,Sample Data
+Rai Mobile Store,Electronics Shop,Hyderabad,"288, Sodhi Path, Hyderabad",+91 8262089272,Sample Data
+Puri Digital Hub,Electronics Shop,Delhi,"44/72, Deep Marg, Delhi",+91 9777944609,Sample Data
+Subramaniam Chemist,Pharmacy,Chennai,"55, Dara Road, Chennai",+91 6477895080,Sample Data
+Shanker Gym,Gym,Chennai,"H.No. 76, Manne Circle, Chennai",+91 9140380477,Sample Data
+Ben Dhaba,Restaurant,Hyderabad,"57/42, Parmar Street, Hyderabad",+91 6792205349,Sample Data
+Iyer Gym,Gym,Pune,"89/325, Madan Ganj, Pune",+91 6582897882,Sample Data
+Mital Dental Care,Dentist,Hyderabad,"524, Ben Nagar, Hyderabad",+91 7166436383,Sample Data
+Wali Digital Hub,Electronics Shop,Delhi,"89/832, Nagy Street, Delhi",+91 6641755366,Sample Data
+Brahmbhatt Salon,Salon,Kolkata,"195, Vig Street, Kolkata",+91 9571825556,Sample Data
+Vig Beauty Studio,Salon,Hyderabad,"51, Bansal Path, Hyderabad",+91 8515985367,Sample Data
+Mand Hotel,Hotel,Hyderabad,"H.No. 202, Shankar Marg, Hyderabad",+91 6947425963,Sample Data
+Bhagat Classes,Coaching Centre,Delhi,"10/30, Madan Circle, Delhi",+91 6699108439,Sample Data
+Comar Inn,Hotel,Chennai,"H.No. 53, Jhaveri Circle, Chennai",+91 7457944766,Sample Data
+Murty Gym,Gym,Mumbai,"11/54, Sagar Path, Mumbai",+91 8804433388,Sample Data
+Nayar Hotel,Hotel,Mumbai,"H.No. 887, Mangal Zila, Mumbai",+91 6432411019,Sample Data
+Kadakia Residency,Hotel,Hyderabad,"H.No. 60, Sridhar Path, Hyderabad",+91 6793663866,Sample Data
+Chowdhury Residency,Hotel,Hyderabad,"83, Shetty Circle, Hyderabad",+91 8431642423,Sample Data
+Andra Beauty Studio,Salon,Bengaluru,"97/69, Thaman Ganj, Bengaluru",+91 9306164050,Sample Data
+Dhawan Dental Clinic,Dentist,Mumbai,"28/037, Halder Street, Mumbai",+91 6417604347,Sample Data
+Gole Fit Zone,Gym,Kolkata,"H.No. 87, Vohra Nagar, Kolkata",+91 8922816526,Sample Data
+Nayar Salon,Salon,Pune,"508, Ramaswamy Ganj, Pune",+91 7294181873,Sample Data
+Sethi Salon,Salon,Jaipur,"48/33, Karnik Zila, Jaipur",+91 9491163514,Sample Data
+Ahuja Dental Care,Dentist,Jaipur,"02, Narain Chowk, Jaipur",+91 9351258749,Sample Data
+Gandhi Dental Care,Dentist,Chennai,"25, Bora Ganj, Chennai",+91 7494966219,Sample Data
+Narayanan Digital Hub,Electronics Shop,Jaipur,"93, Parmar Marg, Jaipur",+91 9639991949,Sample Data
+Patil Residency,Hotel,Mumbai,"47/80, Lalla Street, Mumbai",+91 7368438908,Sample Data
+Thaker Dhaba,Restaurant,Jaipur,"123, Manda Chowk, Jaipur",+91 6863860982,Sample Data
+Roy Fitness,Gym,Chennai,"841, Bhavsar Ganj, Chennai",+91 7392907427,Sample Data
+Varty Digital Hub,Electronics Shop,Mumbai,"H.No. 27, Dubey Ganj, Mumbai",+91 6338411494,Sample Data
+Ravel Electronics,Electronics Shop,Hyderabad,"H.No. 596, Pradhan Circle, Hyderabad",+91 9157184151,Sample Data
+Amble Residency,Hotel,Hyderabad,"62/61, Pathak Marg, Hyderabad",+91 9187623171,Sample Data
+Kapur Academy,Coaching Centre,Bengaluru,"H.No. 99, Saha Chowk, Bengaluru",+91 8206389694,Sample Data
+Walia Academy,Coaching Centre,Mumbai,"H.No. 853, Raj Road, Mumbai",+91 6408034406,Sample Data
+Bose Mobile Store,Electronics Shop,Mumbai,"73, Srinivas Chowk, Mumbai",+91 9581682167,Sample Data
+Uppal Kitchen,Restaurant,Delhi,"H.No. 75, Sankar Nagar, Delhi",+91 8331557515,Sample Data
+Gara Salon,Salon,Pune,"H.No. 954, Prashad Chowk, Pune",+91 8355164255,Sample Data
+Ganguly Pharmacy,Pharmacy,Delhi,"H.No. 109, Chaudhuri Nagar, Delhi",+91 7550784243,Sample Data
+Parekh Electronics,Electronics Shop,Delhi,"515, Kapadia Chowk, Delhi",+91 9740743666,Sample Data
+Pandya Bistro,Restaurant,Bengaluru,"742, Gara Zila, Bengaluru",+91 8560891752,Sample Data
+Gera Bistro,Restaurant,Hyderabad,"19, Borah Nagar, Hyderabad",+91 9301126777,Sample Data
+Buch Fitness,Gym,Hyderabad,"476, Date Road, Hyderabad",+91 6519246503,Sample Data
+Sule Mobile Store,Electronics Shop,Kolkata,"04/09, Chaudhari Street, Kolkata",+91 9500830389,Sample Data
+Mall Medicos,Pharmacy,Kolkata,"H.No. 46, Dey Ganj, Kolkata",+91 6470228863,Sample Data
+Sood Dental Care,Dentist,Delhi,"45/289, Dara Road, Delhi",+91 7147605080,Sample Data
+Dyal Institute,Coaching Centre,Hyderabad,"053, Muni Street, Hyderabad",+91 7991617660,Sample Data
+Deshmukh Mobile Store,Electronics Shop,Jaipur,"79/30, Sarraf Chowk, Jaipur",+91 7971339002,Sample Data
+Prabhakar Unisex Salon,Salon,Delhi,"H.No. 831, Yogi Street, Delhi",+91 9139711044,Sample Data
+Doshi Pharmacy,Pharmacy,Bengaluru,"79/67, Dass Nagar, Bengaluru",+91 7144996163,Sample Data
+Bajaj Institute,Coaching Centre,Chennai,"H.No. 557, Choudhary Street, Chennai",+91 9975535611,Sample Data
+Issac Electronics,Electronics Shop,Chennai,"64/54, Bala Circle, Chennai",+91 7407209235,Sample Data
+Rattan Institute,Coaching Centre,Kolkata,"H.No. 288, Solanki Zila, Kolkata",+91 8393364102,Sample Data
+Barman Gym,Gym,Hyderabad,"H.No. 026, Grover Road, Hyderabad",+91 9898120571,Sample Data
+Bala Digital Hub,Electronics Shop,Pune,"69/80, Walia Circle, Pune",+91 7632794158,Sample Data
+Shetty Mobile Store,Electronics Shop,Hyderabad,"166, Bumb Street, Hyderabad",+91 8960226208,Sample Data
+Rai Fitness,Gym,Pune,"69, Krish Road, Pune",+91 9746879296,Sample Data
+Khurana Beauty Studio,Salon,Chennai,"46/86, Sibal Road, Chennai",+91 6185973340,Sample Data
+Jani Classes,Coaching Centre,Chennai,"H.No. 573, Luthra Street, Chennai",+91 9747060047,Sample Data
+Saraf Hotel,Hotel,Mumbai,"10/424, Srivastava Path, Mumbai",+91 9477470703,Sample Data
+Murthy Mobile Store,Electronics Shop,Kolkata,"32, Ahluwalia Marg, Kolkata",+91 8760191749,Sample Data
+Goel Hotel,Hotel,Chennai,"46/205, Bajwa Path, Chennai",+91 6180574838,Sample Data
+Baral Hotel,Hotel,Hyderabad,"H.No. 47, Batra Marg, Hyderabad",+91 7133436988,Sample Data
+Raghavan Salon,Salon,Jaipur,"926, Sarraf Marg, Jaipur",+91 7172191273,Sample Data
+Ben Dental Care,Dentist,Hyderabad,"H.No. 532, Mand Circle, Hyderabad",+91 9709074302,Sample Data
+Toor Cafe,Restaurant,Mumbai,"768, Nazareth Marg, Mumbai",+91 8499446327,Sample Data
+Brar Mobile Store,Electronics Shop,Delhi,"42, Gala Street, Delhi",+91 7668503222,Sample Data
+Das Classes,Coaching Centre,Pune,"10/40, Mohanty Circle, Pune",+91 8368018471,Sample Data
+Dhawan Fit Zone,Gym,Kolkata,"572, Rana Street, Kolkata",+91 7635844374,Sample Data
+Mahal Inn,Hotel,Delhi,"01/99, Sur Chowk, Delhi",+91 8855954847,Sample Data
+Bhasin Mobile Store,Electronics Shop,Bengaluru,"65/51, Mani Road, Bengaluru",+91 8845156039,Sample Data
+Memon Electronics,Electronics Shop,Bengaluru,"536, Chander Zila, Bengaluru",+91 7179512774,Sample Data
+Luthra Mobile Store,Electronics Shop,Mumbai,"00, Keer Nagar, Mumbai",+91 9194264587,Sample Data
+Cherian Institute,Coaching Centre,Hyderabad,"67/82, Sabharwal Circle, Hyderabad",+91 6690554938,Sample Data
+Sodhi Pharmacy,Pharmacy,Chennai,"H.No. 92, Hora, Chennai",+91 7952225000,Sample Data
+Dhawan Academy,Coaching Centre,Bengaluru,"75, Sule Street, Bengaluru",+91 7950474042,Sample Data
+Dhaliwal Beauty Studio,Salon,Bengaluru,"27, Gill Path, Bengaluru",+91 6487509692,Sample Data
+Bassi Institute,Coaching Centre,Jaipur,"57/720, Gara Path, Jaipur",+91 7757074545,Sample Data
+Bhasin Gym,Gym,Delhi,"84, Agarwal Marg, Delhi",+91 9869801588,Sample Data
+Chokshi Digital Hub,Electronics Shop,Pune,"H.No. 37, Sant Marg, Pune",+91 6234568604,Sample Data
+Vora Classes,Coaching Centre,Delhi,"040, Taneja Nagar, Delhi",+91 9830261466,Sample Data
+Kumar Institute,Coaching Centre,Mumbai,"459, Shah Marg, Mumbai",+91 7924399252,Sample Data
+Bhattacharyya Unisex Salon,Salon,Pune,"H.No. 75, Sengupta Street, Pune",+91 6992699085,Sample Data
+Varma Gym,Gym,Mumbai,"324, Dewan Ganj, Mumbai",+91 7273910700,Sample Data
+Chana Classes,Coaching Centre,Bengaluru,"51/542, Patel Road, Bengaluru",+91 8184675178,Sample Data
+Rana Chemist,Pharmacy,Bengaluru,"469, Krishna Ganj, Bengaluru",+91 8234400576,Sample Data
+Sarna Chemist,Pharmacy,Delhi,"88/818, Krish Street, Delhi",+91 7735449477,Sample Data
+Wadhwa Unisex Salon,Salon,Mumbai,"H.No. 14, Sur Street, Mumbai",+91 8705180256,Sample Data
+Parsa Kitchen,Restaurant,Kolkata,"143, Lall Circle, Kolkata",+91 6788755699,Sample Data
+Dube Chemist,Pharmacy,Bengaluru,"52/137, Gaba Marg, Bengaluru",+91 9763688866,Sample Data
+Tella Dhaba,Restaurant,Jaipur,"H.No. 152, Natt Circle, Jaipur",+91 8618558050,Sample Data
+Kothari Dental Care,Dentist,Pune,"721, Mitra Street, Pune",+91 9178354184,Sample Data
+Contractor Cafe,Restaurant,Mumbai,"087, Parikh Nagar, Mumbai",+91 9619960692,Sample Data
+Batta Digital Hub,Electronics Shop,Bengaluru,"39/705, Lal, Bengaluru",+91 7435632899,Sample Data
+Mital Classes,Coaching Centre,Hyderabad,"H.No. 48, Dixit Ganj, Hyderabad",+91 7916757816,Sample Data
+Desai Classes,Coaching Centre,Delhi,"358, Peri Zila, Delhi",+91 7600871106,Sample Data
+Bhakta Gym,Gym,Chennai,"H.No. 21, Bhatt Road, Chennai",+91 7251266214,Sample Data
+Badami Gym,Gym,Kolkata,"949, Prakash Path, Kolkata",+91 9760756497,Sample Data
+Sami Residency,Hotel,Bengaluru,"H.No. 636, Chad Chowk, Bengaluru",+91 8720286733,Sample Data
+Apte Academy,Coaching Centre,Bengaluru,"H.No. 60, Sant Road, Bengaluru",+91 9652681586,Sample Data
+Lalla Digital Hub,Electronics Shop,Jaipur,"235, Sama Road, Jaipur",+91 9124885365,Sample Data
+Narula Fit Zone,Gym,Pune,"79/253, Mohanty Chowk, Pune",+91 9358480413,Sample Data
+Lanka Dental Clinic,Dentist,Hyderabad,"H.No. 555, Murty Marg, Hyderabad",+91 6402104065,Sample Data
+Sinha Digital Hub,Electronics Shop,Jaipur,"328, Palla Ganj, Jaipur",+91 6215424112,Sample Data
+Kalita Inn,Hotel,Mumbai,"64, Soman Path, Mumbai",+91 8920184955,Sample Data
+Tank Residency,Hotel,Hyderabad,"H.No. 84, Hora, Hyderabad",+91 9154930149,Sample Data
+Dube Dental Care,Dentist,Hyderabad,"58, Chaudhari Road, Hyderabad",+91 6514838889,Sample Data
+Mutti Mobile Store,Electronics Shop,Chennai,"H.No. 156, Gandhi Street, Chennai",+91 6238151258,Sample Data
+Pradhan Gym,Gym,Pune,"326, D’Alia Street, Pune",+91 8698967370,Sample Data
+Vaidya Academy,Coaching Centre,Mumbai,"857, Contractor Ganj, Mumbai",+91 9636954564,Sample Data
+Soman Kitchen,Restaurant,Kolkata,"H.No. 014, Edwin Nagar, Kolkata",+91 7866213410,Sample Data
+Banik Institute,Coaching Centre,Jaipur,"47, Bandi Circle, Jaipur",+91 9259923818,Sample Data
+Kota Unisex Salon,Salon,Hyderabad,"H.No. 229, Ganesan Path, Hyderabad",+91 8274485243,Sample Data
+Lal Hotel,Hotel,Chennai,"H.No. 79, Mani Street, Chennai",+91 8644725317,Sample Data
+Samra Digital Hub,Electronics Shop,Chennai,"H.No. 514, Rajagopalan Chowk, Chennai",+91 6495521185,Sample Data
+Bera Classes,Coaching Centre,Delhi,"25/52, Gola Path, Delhi",+91 8955508961,Sample Data
+Raj Dhaba,Restaurant,Jaipur,"H.No. 497, Saran, Jaipur",+91 7874597473,Sample Data
+Mishra Bistro,Restaurant,Jaipur,"30/501, Badami Nagar, Jaipur",+91 9258672959,Sample Data
+Soni Dental Clinic,Dentist,Kolkata,"H.No. 977, Keer Circle, Kolkata",+91 7120333847,Sample Data
+Aurora Digital Hub,Electronics Shop,Hyderabad,"99/03, Sule Road, Hyderabad",+91 7543412542,Sample Data
+Comar Dental Care,Dentist,Pune,"24/84, Walla Ganj, Pune",+91 6857820386,Sample Data
+Bala Unisex Salon,Salon,Bengaluru,"823, Morar Circle, Bengaluru",+91 8811060614,Sample Data
+Lall Digital Hub,Electronics Shop,Pune,"H.No. 25, Bhardwaj Chowk, Pune",+91 7593559955,Sample Data
+Chaudhari Institute,Coaching Centre,Hyderabad,"776, Issac Ganj, Hyderabad",+91 8755064741,Sample Data
+Ganesh Electronics,Electronics Shop,Bengaluru,"H.No. 277, Comar Ganj, Bengaluru",+91 8699240979,Sample Data
+Apte Medicos,Pharmacy,Bengaluru,"54, Bawa Ganj, Bengaluru",+91 8856881618,Sample Data
+Thakur Dental Care,Dentist,Jaipur,"H.No. 40, Sangha, Jaipur",+91 9474524558,Sample Data
+Naik Pharmacy,Pharmacy,Chennai,"H.No. 731, Desai Zila, Chennai",+91 9523625992,Sample Data
+Agrawal Classes,Coaching Centre,Mumbai,"23/61, Gala Street, Mumbai",+91 6408840720,Sample Data
+Bhakta Gym,Gym,Hyderabad,"95/686, Lanka Circle, Hyderabad",+91 8902448600,Sample Data
+Wadhwa Electronics,Electronics Shop,Bengaluru,"97/778, Sastry Path, Bengaluru",+91 8703462253,Sample Data
+Deep Pharmacy,Pharmacy,Mumbai,"259, Lall Chowk, Mumbai",+91 7360337343,Sample Data
+Parekh Bistro,Restaurant,Bengaluru,"503, Uppal Road, Bengaluru",+91 6207586738,Sample Data
+Chawla Hotel,Hotel,Hyderabad,"097, Toor Zila, Hyderabad",+91 9207959268,Sample Data
+Saini Unisex Salon,Salon,Kolkata,"24, Verma Marg, Kolkata",+91 7536913550,Sample Data
+Malhotra Mobile Store,Electronics Shop,Jaipur,"67, Khatri Zila, Jaipur",+91 7911653317,Sample Data
+Ramesh Medicos,Pharmacy,Hyderabad,"531, Sekhon Nagar, Hyderabad",+91 6925412179,Sample Data
+Tailor Fit Zone,Gym,Bengaluru,"71/777, Gola Ganj, Bengaluru",+91 6287974375,Sample Data
+Bandi Residency,Hotel,Mumbai,"63, Rege Nagar, Mumbai",+91 9946066287,Sample Data
+Agarwal Mobile Store,Electronics Shop,Mumbai,"H.No. 29, Mukherjee Street, Mumbai",+91 8140229006,Sample Data
+Prabhu Kitchen,Restaurant,Chennai,"H.No. 776, Mohan Street, Chennai",+91 8405545745,Sample Data
+Padmanabhan Electronics,Electronics Shop,Jaipur,"H.No. 74, Balan Chowk, Jaipur",+91 9392956587,Sample Data
+Choudhury Dental Care,Dentist,Delhi,"H.No. 37, Bhardwaj, Delhi",+91 7885033297,Sample Data
+Thakkar Mobile Store,Electronics Shop,Chennai,"333, Varghese Nagar, Chennai",+91 7115122787,Sample Data
+Zachariah Institute,Coaching Centre,Chennai,"70/681, Purohit Zila, Chennai",+91 7288436227,Sample Data
+Guha Hotel,Hotel,Pune,"69/37, Malhotra Ganj, Pune",+91 8193133974,Sample Data
+Ravi Residency,Hotel,Delhi,"29/976, Parekh Street, Delhi",+91 7612662437,Sample Data
+Rout Academy,Coaching Centre,Bengaluru,"H.No. 699, Rajagopal Marg, Bengaluru",+91 8511859868,Sample Data
+Bhatia Dental Care,Dentist,Jaipur,"63, Kapoor Street, Jaipur",+91 8424211872,Sample Data
+Reddy Dhaba,Restaurant,Chennai,"91/55, Shetty Street, Chennai",+91 7166705490,Sample Data
+Sandal Gym,Gym,Jaipur,"95/55, Kulkarni, Jaipur",+91 7535312769,Sample Data
+Sahni Chemist,Pharmacy,Delhi,"172, Kata Marg, Delhi",+91 8494647257,Sample Data
+Sagar Dental Clinic,Dentist,Bengaluru,"18/404, Johal Ganj, Bengaluru",+91 9264481748,Sample Data
+Purohit Digital Hub,Electronics Shop,Hyderabad,"87/31, Mandal Ganj, Hyderabad",+91 9913198930,Sample Data
+Om Dental Clinic,Dentist,Bengaluru,"H.No. 96, Cherian Road, Bengaluru",+91 9667121569,Sample Data
+Goda Institute,Coaching Centre,Delhi,"233, Shetty Marg, Delhi",+91 6166312199,Sample Data
+Choudhury Dental Clinic,Dentist,Mumbai,"H.No. 29, Parekh Ganj, Mumbai",+91 8658712474,Sample Data
+Hayre Mobile Store,Electronics Shop,Delhi,"H.No. 25, Jayaraman Circle, Delhi",+91 7869784803,Sample Data
+Mitter Mobile Store,Electronics Shop,Delhi,"12, Walla Road, Delhi",+91 9968326513,Sample Data
+Rajan Bistro,Restaurant,Jaipur,"38/26, Singhal Road, Jaipur",+91 9590483627,Sample Data
+Deshpande Dhaba,Restaurant,Jaipur,"950, Hora Ganj, Jaipur",+91 6525146690,Sample Data
+Srivastava Chemist,Pharmacy,Kolkata,"10/94, Garde Marg, Kolkata",+91 7720956992,Sample Data
+Karan Gym,Gym,Kolkata,"74/47, Dhar Road, Kolkata",+91 8852032540,Sample Data
+Gopal Fitness,Gym,Kolkata,"H.No. 68, Pingle Ganj, Kolkata",+91 9134075063,Sample Data
+Dass Pharmacy,Pharmacy,Pune,"208, Narayanan Chowk, Pune",+91 7922301213,Sample Data
+Mane Inn,Hotel,Hyderabad,"17/81, Sur Circle, Hyderabad",+91 9505333621,Sample Data
+Agarwal Hotel,Hotel,Delhi,"H.No. 666, Morar Chowk, Delhi",+91 7801726890,Sample Data
+Bhatnagar Academy,Coaching Centre,Delhi,"80/57, Yohannan Street, Delhi",+91 9667840357,Sample Data
+Vaidya Salon,Salon,Bengaluru,"40/14, Bhasin Chowk, Bengaluru",+91 6420364823,Sample Data
+Joshi Mobile Store,Electronics Shop,Pune,"H.No. 90, Vasa Chowk, Pune",+91 9984076542,Sample Data
+Bhargava Dental Care,Dentist,Bengaluru,"H.No. 29, Parmar Ganj, Bengaluru",+91 8266560311,Sample Data
+Palla Chemist,Pharmacy,Bengaluru,"891, Sarna Chowk, Bengaluru",+91 6134593072,Sample Data
+Aurora Residency,Hotel,Kolkata,"12, Sarma Street, Kolkata",+91 7172253060,Sample Data
+Oommen Gym,Gym,Kolkata,"029, Bora Chowk, Kolkata",+91 6362781292,Sample Data
+Narula Cafe,Restaurant,Pune,"H.No. 927, Subramanian Zila, Pune",+91 7679562681,Sample Data
+Nigam Dental Clinic,Dentist,Kolkata,"760, Iyer Path, Kolkata",+91 8351429015,Sample Data
+Menon Academy,Coaching Centre,Hyderabad,"94/24, Ganguly Path, Hyderabad",+91 8253824712,Sample Data
+Bobal Dental Care,Dentist,Pune,"62, Shah Ganj, Pune",+91 8165452764,Sample Data
+Kapoor Unisex Salon,Salon,Pune,"74/193, Suresh Street, Pune",+91 9150341410,Sample Data
+Puri Institute,Coaching Centre,Pune,"401, Sidhu Chowk, Pune",+91 8847655456,Sample Data
+Dewan Residency,Hotel,Pune,"57, Srinivas Zila, Pune",+91 8504221050,Sample Data
+Sehgal Salon,Salon,Jaipur,"23/88, Sarkar Path, Jaipur",+91 7422913264,Sample Data
+Mukhopadhyay Salon,Salon,Jaipur,"38, Chahal Ganj, Jaipur",+91 9547221915,Sample Data
+Doctor Salon,Salon,Pune,"49/879, Setty Ganj, Pune",+91 8318331154,Sample Data
+Babu Classes,Coaching Centre,Delhi,"097, Mani Street, Delhi",+91 8199282456,Sample Data
+Koshy Dental Care,Dentist,Kolkata,"292, Dash Street, Kolkata",+91 9823349713,Sample Data
+Varkey Bistro,Restaurant,Delhi,"126, Reddy Zila, Delhi",+91 7614745610,Sample Data
+Mukherjee Dental Care,Dentist,Hyderabad,"82/22, Thaman Road, Hyderabad",+91 6327426863,Sample Data
+Mander Dental Care,Dentist,Delhi,"H.No. 84, Varghese Zila, Delhi",+91 7846923032,Sample Data
+Buch Dental Clinic,Dentist,Pune,"47/13, Rajagopalan Zila, Pune",+91 8932701695,Sample Data
+Radhakrishnan Medicos,Pharmacy,Pune,"H.No. 86, Kata Street, Pune",+91 8431165907,Sample Data
+More Chemist,Pharmacy,Hyderabad,"69/996, Aggarwal, Hyderabad",+91 9600368062,Sample Data
+Andra Gym,Gym,Jaipur,"78, Ravi Circle, Jaipur",+91 7498041381,Sample Data
+Garg Academy,Coaching Centre,Pune,"H.No. 10, Varghese Road, Pune",+91 7895913682,Sample Data
+Iyer Beauty Studio,Salon,Kolkata,"H.No. 97, Pall Road, Kolkata",+91 9416960306,Sample Data
+Joshi Beauty Studio,Salon,Bengaluru,"H.No. 47, Thakkar Marg, Bengaluru",+91 7507849850,Sample Data
+Khalsa Dental Care,Dentist,Jaipur,"H.No. 464, Chacko Street, Jaipur",+91 8919652226,Sample Data
+Jha Digital Hub,Electronics Shop,Jaipur,"450, Dara Chowk, Jaipur",+91 7886808192,Sample Data
+Raj Academy,Coaching Centre,Mumbai,"64/094, Andra Path, Mumbai",+91 9297619784,Sample Data
+Saha Kitchen,Restaurant,Kolkata,"52/197, Uppal Marg, Kolkata",+91 6920702588,Sample Data
+Edwin Bistro,Restaurant,Pune,"855, Anne Marg, Pune",+91 7172980019,Sample Data
+Raj Salon,Salon,Kolkata,"630, More Nagar, Kolkata",+91 9500721199,Sample Data
+Bera Cafe,Restaurant,Jaipur,"45/53, Bhasin Path, Jaipur",+91 6107099962,Sample Data
+Rajagopalan Residency,Hotel,Kolkata,"096, Balay Ganj, Kolkata",+91 8675244407,Sample Data
+Sastry Chemist,Pharmacy,Kolkata,"H.No. 90, Basu Nagar, Kolkata",+91 9965615974,Sample Data
+Dixit Salon,Salon,Delhi,"H.No. 16, Jaggi Road, Delhi",+91 7358738317,Sample Data
+Mandal Dental Care,Dentist,Chennai,"57, Contractor, Chennai",+91 8953556386,Sample Data
+Nazareth Inn,Hotel,Delhi,"H.No. 713, Mani Zila, Delhi",+91 9592845076,Sample Data
+Nanda Dental Care,Dentist,Bengaluru,"79/54, Hegde Chowk, Bengaluru",+91 6801943382,Sample Data
+Balay Cafe,Restaurant,Delhi,"90/526, Brar Path, Delhi",+91 9504982743,Sample Data
+Patil Mobile Store,Electronics Shop,Kolkata,"39, Nath Marg, Kolkata",+91 6854674236,Sample Data
+Srinivasan Beauty Studio,Salon,Delhi,"H.No. 62, Tara Street, Delhi",+91 9792463878,Sample Data
+Goel Institute,Coaching Centre,Delhi,"147, Memon Ganj, Delhi",+91 6346709900,Sample Data
+Ratti Dental Care,Dentist,Jaipur,"34, Sachar Chowk, Jaipur",+91 6179830621,Sample Data
+Luthra Pharmacy,Pharmacy,Kolkata,"H.No. 85, Borra Street, Kolkata",+91 8116812751,Sample Data
+Mital Dental Care,Dentist,Mumbai,"H.No. 62, Malhotra Street, Mumbai",+91 6421346113,Sample Data
+Hayer Unisex Salon,Salon,Bengaluru,"98/78, Khanna, Bengaluru",+91 9826960759,Sample Data
+Mangal Institute,Coaching Centre,Pune,"H.No. 36, Bhardwaj Chowk, Pune",+91 7948790854,Sample Data
+Varma Fitness,Gym,Hyderabad,"622, Bobal Ganj, Hyderabad",+91 6569319938,Sample Data
+Oza Dental Care,Dentist,Delhi,"435, Chowdhury Marg, Delhi",+91 9930598266,Sample Data
+Parmar Institute,Coaching Centre,Kolkata,"713, Dutt Nagar, Kolkata",+91 8941328406,Sample Data
+Nanda Electronics,Electronics Shop,Jaipur,"64, Bhakta Zila, Jaipur",+91 8693819730,Sample Data
+Wadhwa Residency,Hotel,Pune,"19/707, Kashyap Nagar, Pune",+91 9192013357,Sample Data
+Kale Chemist,Pharmacy,Bengaluru,"41, Master Path, Bengaluru",+91 6188087644,Sample Data
+Karnik Medicos,Pharmacy,Mumbai,"H.No. 158, Sarma Chowk, Mumbai",+91 7894198823,Sample Data
+Dhaliwal Inn,Hotel,Hyderabad,"H.No. 699, Dasgupta Circle, Hyderabad",+91 6198269319,Sample Data
+Krishna Cafe,Restaurant,Chennai,"85/36, Dugar Zila, Chennai",+91 8917489574,Sample Data
+Purohit Pharmacy,Pharmacy,Delhi,"H.No. 42, Uppal, Delhi",+91 6301210399,Sample Data
+Chandran Hotel,Hotel,Jaipur,"69/623, Dugar Ganj, Jaipur",+91 9210909937,Sample Data
+Sibal Dhaba,Restaurant,Delhi,"H.No. 155, Minhas Chowk, Delhi",+91 6740942859,Sample Data
+Kuruvilla Academy,Coaching Centre,Pune,"071, Dyal Chowk, Pune",+91 8544325176,Sample Data
+Shere Hotel,Hotel,Delhi,"74/491, Menon Circle, Delhi",+91 7714137833,Sample Data
+Bava Salon,Salon,Pune,"H.No. 37, Manne Circle, Pune",+91 7388749542,Sample Data
+Subramanian Medicos,Pharmacy,Chennai,"24/56, Zacharia Road, Chennai",+91 7167932588,Sample Data
+Kamdar Beauty Studio,Salon,Pune,"H.No. 18, Raja Ganj, Pune",+91 9421856529,Sample Data
+Sarin Digital Hub,Electronics Shop,Delhi,"02, Bhandari, Delhi",+91 8364774064,Sample Data
+Dora Digital Hub,Electronics Shop,Bengaluru,"H.No. 363, Zachariah Ganj, Bengaluru",+91 6245480775,Sample Data
+Saran Medicos,Pharmacy,Kolkata,"H.No. 10, Seshadri Road, Kolkata",+91 8765926290,Sample Data
