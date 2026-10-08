@@ -85,8 +85,19 @@ Open http://localhost:5173
 - **Sample data:** listings in the database labelled `source = "Sample Data"`
   are generated with the Faker library (`mock_data.py`). They are **not real
   businesses**. The assignment allows mock data when scraping is blocked.
-- **EDIT THIS SECTION:** state exactly how many rows are real scraped rows,
-  from which website, and how many are sample rows.
+- **Real scraped rows:** none. All rows in the database (500+) are sample data
+  generated with Faker, because large directories restrict automated scraping.
+  The scraper is included and can be pointed at a permitted site by updating
+  its selectors.
+
+## Frontend Note (Learning Disclosure)
+I am new to frontend development and React. For the dashboard in `frontend/`,
+I used online resources and an AI assistant to help write the code. I then went
+through the code to understand how it works:
+- `fetch` gets JSON data from the FastAPI endpoints.
+- `useState` stores the data in the page.
+- `useEffect` runs the fetch when the page loads.
+- `BarCard` and `PieCard` are reusable components that draw Recharts charts.
 
 ## Challenges Faced
 - **Scraping restrictions:** large directories (Google Maps, Justdial) restrict
@@ -100,3 +111,5 @@ Open http://localhost:5173
   the wrong folder (uvicorn must run inside `backend/`) took time to debug.
 - **CORS:** the React app (port 5173) needed CORS enabled in FastAPI to call
   the API (port 8000).
+- **New to React:** learning how components, state and data fetching work was
+  a challenge, which is why the frontend uses a simple structure.
